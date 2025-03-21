@@ -1,4 +1,4 @@
-# Data Science - Python Projects
+# Data Science - Projects
 
 ### Education
 Pursuing PhD-DS
